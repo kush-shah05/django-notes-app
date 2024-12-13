@@ -124,5 +124,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Your Name**  
-[GitHub Profile](https://github.com/<kush-shah05>)
+[GitHub Profile](https://github.com/kush-shah05)
